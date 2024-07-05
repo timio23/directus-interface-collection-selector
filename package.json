@@ -1,5 +1,5 @@
 {
-	"name": "directus-extension-collection-selector",
+	"name": "directus-extension-collection-dropdown",
 	"description": "A dropdown for selecting a collection",
 	"icon": "extension",
 	"version": "1.0.0",
