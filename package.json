@@ -3,6 +3,7 @@
 	"description": "A dropdown for selecting a collection",
 	"icon": "extension",
 	"version": "1.0.0",
+	"files": ["dist"],
 	"keywords": [
 		"directus",
 		"directus-extension",
