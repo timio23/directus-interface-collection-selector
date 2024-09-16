@@ -2,7 +2,7 @@
 	"name": "directus-extension-collection-dropdown",
 	"description": "A dropdown for selecting a collection",
 	"icon": "extension",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"files": [
 		"dist"
 	],
